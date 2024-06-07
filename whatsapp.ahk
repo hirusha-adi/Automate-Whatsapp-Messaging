@@ -4,10 +4,6 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
-/*
-If this code is to be modified, you must include credits for Hirusha Adikari for creating this code!
-*/
-
 F8::Pause    ; F8 to pause the script
 F9::Suspend  ; F9 to Suspend - wont stop spamming, will pause the sript after spamming (you can pause and then suspend, it will work)
 F10::Reload   ; F10 to reload the script, everything done by the script will stop and restarted
